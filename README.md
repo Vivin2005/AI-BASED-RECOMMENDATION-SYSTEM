@@ -201,3 +201,4 @@ This project fulfills the internship requirement by showcasing problem-solving s
 
 ** OUTPUT **
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/189ea07c-ee2b-44a5-91b8-2b4a2db1e8fe" />
