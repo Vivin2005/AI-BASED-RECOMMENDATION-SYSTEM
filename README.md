@@ -200,7 +200,7 @@ This project fulfills the internship requirement by showcasing problem-solving s
 
 ** CSV File (ratings.csv) **
 
-
+<img width="126" height="410" alt="Image" src="https://github.com/user-attachments/assets/fcd61bef-cadb-4f92-bcd8-37be02e025fe" />
 
 
 ** OUTPUT **
