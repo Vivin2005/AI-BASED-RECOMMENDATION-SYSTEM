@@ -198,6 +198,10 @@ Java-based implementation of AI concepts
 
 This project fulfills the internship requirement by showcasing problem-solving skills, real-world application understanding, and the ability to build an AI-driven suggestion engine from scratch.
 
+** CSV File (ratings.csv) **
+
+
+
 
 ** OUTPUT **
 
